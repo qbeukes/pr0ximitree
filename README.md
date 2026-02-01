@@ -1,9 +1,8 @@
 
-BNNB: Bluetooth Near is Not Blueproximity
+pr0ximitree: Not Bluetooth Near is Not Blueproximity
 --
 
 A Small script to lock/unlock (or any other action if you wish)
-Had a lot of issues with blueproximity so I started to search for alternatives and finally wrote this.
 The main idea is to have a lock/unlock within 1 meter like some proprietary software like NearLock (https://nearlock.me/) can do.
 The main alternative for linux is blueproximity (https://sourceforge.net/projects/blueproximity/) that use RSSI as a distance.
 
